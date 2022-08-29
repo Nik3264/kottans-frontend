@@ -12,3 +12,13 @@
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/Git3.JPG">
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/Git4.JPG">
 </details>
+
+## Intro to HTML and CSS
+<details><summary>Details...</summary>
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML%20%26%20CSS_1.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML%20%26%20CSS_2.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML%20%26%20CSS_3.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML%20%26%20CSS_4.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML%20%26%20CSS_5.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_html_css_intro/Intro%20to%20HTML%20%26%20CSS_codecademy.JPG">
+</details>
