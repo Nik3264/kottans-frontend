@@ -6,3 +6,9 @@
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_linux_cli/Linux3.JPG">
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_linux_cli/Linux4.JPG">
 </details>
+
+## Git Collaboration
+<details><summary>Details...</summary>
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/Git3.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/Git4.JPG">
+</details>
