@@ -31,3 +31,7 @@
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_responsive_web_design/frog.JPG">
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_responsive_web_design/grid.JPG">
 </details>
+
+## Hooli-style Popup
+![Demo](https://nik3264.github.io/Hooli-style-Popup/#)
+
