@@ -1,4 +1,13 @@
 # kottans-frontend
+## Git Basics
+<details><summary>Details...</summary>
+  <h3>It was quite difficult for me. But I understand that I will return to these materials very often. It was only with practice that I began to understand Git.</h3>
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/Git.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/Git2.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/git_basic_1.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_git_collaboration/git_basic_2.JPG">
+</details>
+
 ## Linux CLI, and HTTP
 <details><summary>Details...</summary>
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_linux_cli/Linux1.JPG">
@@ -33,10 +42,10 @@
 </details>
 
 ## Hooli-style Popup
-[Demo](https://nik3264.github.io/Hooli-style-Popup/#)
+[Demo](https://nik3264.github.io/Hooli-style-Popup/#) [Code](https://github.com/Nik3264/Hooli-style-Popup)
 
 ## DOM
-[Demo](https://nik3264.github.io/Dom/)
+[Demo](https://nik3264.github.io/Dom/) [Code](https://github.com/Nik3264/Dom)
 
 ## A Tiny JS World
-[Demo](https://nik3264.github.io/a-tiny-JS-world/)
+[Demo](https://nik3264.github.io/a-tiny-JS-world/)  [Code](https://github.com/Nik3264/a-tiny-JS-world)
