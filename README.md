@@ -51,4 +51,5 @@
 [Demo](https://nik3264.github.io/a-tiny-JS-world/)  [Code](https://github.com/Nik3264/a-tiny-JS-world)
 
 ## Object-Oriented JavaScript 
-[Demo](https://nik3264.github.io/frontend-nanodegree-arcade-game/) [Code](https://github.com/Nik3264/frontend-nanodegree-arcade-game)
+[Demo](https://nik3264.github.io/frontend-nanodegree-arcade-game/) [Code](https://github.com/Nik3264/frontend-nanodegree-arcade-game)  
+[Codewars](https://www.codewars.com/users/Nika337)
