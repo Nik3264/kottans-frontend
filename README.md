@@ -34,7 +34,8 @@
 
 ## Responsive Web Design
 <details><summary>Details...</summary>
-  <p>
+Адаптивный дизайн высоты:  https://habr.com/ru/company/skillfactory/blog/524996/  
+  <p>      
   It's fun to learn the material in the form of a game. I liked it, of course. I think I will use this in the future.
   </p>
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_responsive_web_design/frog.JPG">
