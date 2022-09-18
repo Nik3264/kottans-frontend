@@ -54,3 +54,6 @@
 ## Object-Oriented JavaScript 
 [Demo](https://nik3264.github.io/frontend-nanodegree-arcade-game/) [Code](https://github.com/Nik3264/frontend-nanodegree-arcade-game)  
 [Codewars](https://www.codewars.com/users/Nika337)
+
+## Memory-Pair-Game
+[Demo](https://nik3264.github.io/Memory-Pair-Game/)
