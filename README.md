@@ -207,4 +207,4 @@ git remote add [remote][url] — добавить новый удаленный 
 [Codewars](https://www.codewars.com/users/Nika337)
 
 ## Memory-Pair-Game
-[Demo](https://nik3264.github.io/Memory-Pair-Game/)
+[Demo](https://nik3264.github.io/Memory-Pair-Game/) [Code](https://github.com/Nik3264/Memory-Pair-Game)
