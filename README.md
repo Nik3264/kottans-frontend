@@ -198,6 +198,8 @@ git remote add [remote][url] — добавить новый удаленный 
 
 ## JS Basics    
 <details><summary>Details...</summary>
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/coursera1.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/coursera2.JPG">
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/BasicJS_113.JPG">
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/BasicJS_17.JPG">
   <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/Data_Algor.JPG">
