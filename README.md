@@ -196,6 +196,15 @@ git remote add [remote][url] — добавить новый удаленный 
 ## Hooli-style Popup
 [Demo](https://nik3264.github.io/Hooli-style-Popup/#) [Code](https://github.com/Nik3264/Hooli-style-Popup)
 
+## JS Basics    
+<details><summary>Details...</summary>
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/BasicJS_113.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/BasicJS_17.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/Data_Algor.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/FunctionalProgramming.JPG">
+  <img src="https://github.com/Nik3264/kottans-frontend/blob/main/task_js_basics/IntermediateAlgorStruct.JPG">
+</details>
+
 ## DOM
 [Demo](https://nik3264.github.io/Dom/) [Code](https://github.com/Nik3264/Dom)
 
